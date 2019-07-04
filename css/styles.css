@@ -19,7 +19,8 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  transition: box-shadow 0.5s; }
+  transition: box-shadow 0.5s;
+  overflow: hidden; }
   .card-wrapper:hover {
     box-shadow: 0 0 30px #ffffff; }
 

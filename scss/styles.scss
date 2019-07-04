@@ -28,6 +28,7 @@
 	left: 50%;
 	transform: translate(-50%, -50%);
 	transition: box-shadow 0.5s;
+	overflow: hidden;
 	&:hover {
 		box-shadow: 0 0 30px #ffffff;
 	}
